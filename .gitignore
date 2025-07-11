@@ -1,0 +1,4 @@
+node_modules/
+parcel-cache/
+
+This project uses Parcel as the bundler and Tailwind CSS for styling. The HTML structure is organized into sections, with a hero section, features section, cards section, and footer. The CSS uses a modern and clean design, with a focus on typography and whitespace. The JavaScript file is currently empty, but can be used to add interactivity to the site.
