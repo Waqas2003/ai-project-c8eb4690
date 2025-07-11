@@ -1,0 +1,10 @@
+{
+  "name": "fifa-world-cup-2025",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.3.2"
+  }
+}
